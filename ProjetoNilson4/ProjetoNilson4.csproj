@@ -16,6 +16,7 @@
   <ItemGroup>
     <Folder Include="Views\Colaborador\" />
     <Folder Include="wwwroot\img\" />
+    <Folder Include="wwwroot\resources\lib\" />
   </ItemGroup>
 
 </Project>
